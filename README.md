@@ -47,7 +47,7 @@ Tenho interesse em desenvolvimento de sistemas, banco de dados e criação de pr
 ## 📫 Contato
 
 * Email: delbelloisabellyferreira@gmail.com
-* GitHub: https://github.com/seuusuario
+* GitHub: https://github.com/delbelloisabellyferreira-blip/bellydelbello/edit/main/README.md
 
 
 ## ✨ Objetivo
